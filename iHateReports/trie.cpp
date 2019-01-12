@@ -12,29 +12,37 @@ Trie::Trie()
 	}
 }
 
-void Trie::insert(string key)
+void Trie::insert(string key, Trie*& trie)
 {
 	// Create pointer pointing to address of root node (this)
 	Trie* current = this;
+	int temp; // Temp is used to convert capital letters to small letters when needed.
 	for (size_t i = 0; i < key.length(); i++)
 	{
 		// Create node if path not found
-		//if (key[i] < 97)
-		//{
-		//	key[i] += 32; // Converts capital letters to small letters
-		//}
-		//if (!key[i] > 122)
-		//{
-		if (current->character[key[i]] == nullptr) // Checks if address of index Letter is null
+		if (key[i] < 97)
 		{
-			current->character[key[i]] = new Trie(); // Sets index Letter of character array to new trie
+			temp = key[i] + 32; // Converts capital letters to small letters
 		}
-		//}
-		current = current->character[key[i]]; // Traverse from root to existing or newly created trie address
+		else
+		{
+			temp = key[i];
+		}
+		if (current->character[temp] == nullptr) // Checks if address of index Letter is null
+		{
+			current->character[temp] = new Trie(); // Sets index Letter of character array to new trie
+		}
+		
+		current = current->character[temp]; // Traverse from root to existing or newly created trie address
 	}
-
 	// Mark current node as leaf
+	trie = current;
 	current->isLeaf = true;
+}
+
+void Trie::fillSynArray(Trie* trie, string _word, int i)
+{
+	trie->synonym[i] = _word;
 }
 
 const bool Trie::search(const string key)
@@ -110,6 +118,13 @@ void Trie::traverse(string prefix, Trie* trie)
 			else
 			{
 				cout << tempString << endl;	// Else print out word
+				for (int z = 0; z < 50; z++)
+				{
+					if (!(temp->synonym[z] == ""))
+					{
+						cout << temp->synonym[z] << endl;
+					}	
+				}
 			}
 		}
 	}

@@ -1,0 +1,12 @@
+KEY: Aback.
+SYN: Backwards, rearwards, aft, abaft, astern, behind, back.
+ANT: Onwards, forwards, ahead, before, afront, beyond, afore.
+=
+KEY: Abandon.
+SYN: Leave, forsake, desert, renounce, cease, relinquish,
+discontinue, castoff, resign, retire, quit, forego, forswear,
+depart from, vacate, surrender, abjure, repudiate.
+ANT: Pursue, prosecute, undertake, seek, court, cherish, favor,
+protect, claim, maintain, defend, advocate, retain, support, uphold,
+occupy, haunt, hold, assert, vindicate, keep.
+=

@@ -9,6 +9,7 @@ class Dictionary {
 private:
 	Txtfile dictText;
 	string formatType; // FormatTypes: guten
+	Trie* holder = nullptr;
 public:
 	//Dictionary();
 	Dictionary(Txtfile, string);
