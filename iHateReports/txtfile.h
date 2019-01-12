@@ -10,6 +10,6 @@ private:
 public:
 	Txtfile();
 	Txtfile(string);
-	void writeToFile(string);
-	string readFile();
+	const void writeToFile(string);
+	const string readFile();
 };

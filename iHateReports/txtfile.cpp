@@ -10,7 +10,7 @@ Txtfile::Txtfile(string filename)
 	fileName = filename;
 }
 
-void Txtfile::writeToFile(string text)
+const void Txtfile::writeToFile(string text)
 {
 	ofstream writeFile;
 	writeFile.open(fileName);
@@ -18,7 +18,7 @@ void Txtfile::writeToFile(string text)
 	writeFile.close();
 }
 
-string Txtfile::readFile()
+const string Txtfile::readFile()
 {
 	ifstream readFile;
 	readFile.open(fileName);
