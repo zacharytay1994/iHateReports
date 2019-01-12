@@ -10,6 +10,7 @@ private:
 public:
 	Txtfile();
 	Txtfile(string);
+	const string getFileName();
 	const void writeToFile(string);
 	const string readFile();
 };

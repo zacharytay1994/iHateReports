@@ -2,13 +2,15 @@
 #include <iostream>
 #include <string>
 #include "txtfile.h"
+#include "trie.h"
 using namespace std;
 
 class Dictionary {
 private:
 	Txtfile dictText;
+	string formatType; // FormatTypes: guten
 public:
-	Dictionary();
-	Dictionary(Txtfile);
-	void initGutenberg(); // To initiate a dictionary with the Gutenberg ebook format
+	//Dictionary();
+	Dictionary(Txtfile, string);
+	bool initGutenberg(Trie*&); // To initiate a dictionary with the Gutenberg ebook format
 };

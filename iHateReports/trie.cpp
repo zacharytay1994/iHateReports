@@ -12,17 +12,24 @@ Trie::Trie()
 	}
 }
 
-void Trie::insert(const string key)
+void Trie::insert(string key)
 {
 	// Create pointer pointing to address of root node (this)
 	Trie* current = this;
 	for (size_t i = 0; i < key.length(); i++)
 	{
 		// Create node if path not found
+		//if (key[i] < 97)
+		//{
+		//	key[i] += 32; // Converts capital letters to small letters
+		//}
+		//if (!key[i] > 122)
+		//{
 		if (current->character[key[i]] == nullptr) // Checks if address of index Letter is null
 		{
 			current->character[key[i]] = new Trie(); // Sets index Letter of character array to new trie
 		}
+		//}
 		current = current->character[key[i]]; // Traverse from root to existing or newly created trie address
 	}
 

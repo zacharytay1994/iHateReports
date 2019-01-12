@@ -10,6 +10,11 @@ Txtfile::Txtfile(string filename)
 	fileName = filename;
 }
 
+const string Txtfile::getFileName()
+{
+	return fileName;
+}
+
 const void Txtfile::writeToFile(string text)
 {
 	ofstream writeFile;

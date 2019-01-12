@@ -4,6 +4,7 @@
 using namespace std;
 
 const int CHAR_SIZE = 128;
+const int WORD_SIZE = 20;
 
 // trie node
 class Trie {
@@ -11,11 +12,12 @@ private:
 public:
 	bool isLeaf;
 	Trie* character[CHAR_SIZE];
+	string synonym[WORD_SIZE];
 
 	// Contructor
 	Trie();
 	// Insert new word in dictionary
-	void insert(const string);
+	void insert(string);
 	// Search from dictionary
 	const bool search(const string);
 	// Display all words from closest input
