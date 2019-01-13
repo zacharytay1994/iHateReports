@@ -50,6 +50,7 @@ void Txtfile::trimTxt(Txtfile output) // Make sure file has all braces converted
 		string holder = "";
 		for (size_t i = 0; i < x.length(); i++)
 		{
+			// Check for A
 			if (x[i] == 65)
 			{
 				if (read)
@@ -61,7 +62,16 @@ void Txtfile::trimTxt(Txtfile output) // Make sure file has all braces converted
 					read = true;
 				}
 			}
-			if (read && x[i] != 65)
+			// Check for O and P
+			if (x[i] == 79)
+			{
+				read = false;
+			}
+			else if (x[i] == 80)
+			{
+				read = true;
+			}
+			if (read && x[i] != 65 && x[i] != 80)
 			{
 				if (x[i] == 66)
 				{
