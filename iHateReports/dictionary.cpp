@@ -7,8 +7,21 @@ Dictionary::Dictionary(Txtfile dicttext, string formattype)
 	formatType = formattype;
 }
 
-bool Dictionary::initGutenberg(Trie*& trie)
+Trie* Dictionary::getRoot()
 {
+	if (root != nullptr)
+	{
+		return root;
+	}
+	else
+	{
+		cout << "Dictionary not initialized" << endl;
+	}
+}
+
+bool Dictionary::initGutenberg()
+{
+	root = new Trie;
 	bool checkKey = false;
 	bool checkSyn = false;
 	if (formatType == "guten")
@@ -28,7 +41,7 @@ bool Dictionary::initGutenberg(Trie*& trie)
 			if (checkKey)
 			{
 				//x.erase(x.length() - 1, 1);
-				trie->insert(x, holder);
+				root->insert(x, holder);
 				
 				//cout << x << endl;
 				/*for (int r = 0; r < 50; r++)
@@ -53,9 +66,32 @@ bool Dictionary::initGutenberg(Trie*& trie)
 		}
 		return true;
 		gutenFile.close();
+		
 	}
 	else
 	{
 		return false;
+	}
+}
+
+void Dictionary::displaySyn(string _string)
+{
+	if (root != nullptr)
+	{
+		Trie* wordLoc = new Trie;
+		if (root->getWord(_string, wordLoc))
+		{
+			for (int z = 0; z < 50; z++)
+			{
+				if (!(wordLoc->synonym[z] == ""))
+				{
+					cout << wordLoc->synonym[z] << endl;
+				}
+			}
+		}
+	}
+	else
+	{
+		cout << "Dictionary not initialized, initGutenberg()." << endl;
 	}
 }

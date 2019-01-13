@@ -10,8 +10,14 @@ private:
 	Txtfile dictText;
 	string formatType; // FormatTypes: guten
 	Trie* holder = nullptr;
+	Trie* root = nullptr;
 public:
 	//Dictionary();
 	Dictionary(Txtfile, string);
-	bool initGutenberg(Trie*&); // To initiate a dictionary with the Gutenberg ebook format
+	// Return root
+	Trie* getRoot();
+	// pushing words from dictionary into trie data structure
+	bool initGutenberg(); // To initiate a dictionary with the Gutenberg ebook format
+	// Print out synonyms
+	void displaySyn(string);
 };

@@ -72,7 +72,7 @@ bool Trie::getWord(string _string, Trie*& trie)
 	Trie* current = this;
 	if (!current->search(_string))
 	{
-		cout << "Word does not exist in dictionary" << endl;
+		cout << "Word does not exist in dictionary." << endl;
 		return false;
 	}
 	else
