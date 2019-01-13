@@ -1,4 +1,4 @@
-﻿keyC aback .
+keyC aback .
 synC backwards rearwards aft abaft astern behind back .
 antC onwards forwards ahead before afront beyond afore .
 =
@@ -850,14 +850,14 @@ syn . sticky viscous glutinous .
 ant . inadhestive .
 =
 keyC adieu . 
-syn . goodbye(which is“god be with ye“) farewell leave-taking
+syn . goodbye(which is�god be with ye�) farewell leave-taking
 parting salutation valediction .
 ant . greeting welcome recognition salutation .
 =
 keyC adipose . 
 syn . obese corpulent sebaceous oleaginous pinguetudinous .
 ant . leathery skinny bony thin
-anatomical mummiﬁed .
+anatomical mummi?ed .
 =
 keyC adit .
 syn . entrance ingress access
@@ -918,7 +918,7 @@ irrelevant useless .
 =
 keyC  admeasurement . 
 synC size adjustment dimensions adaptation .
-antC  misshapement misconformity misﬁt mismatch 
+antC  misshapement misconformity mis?t mismatch 
 mismeasurement .
 =
 keyC  adminlster . 
@@ -951,7 +951,7 @@ synC  allowable permissible probable reasonable get
 properfair right qualified .
 antC  unallowable inadmissible
 improper unreasonable absurd preposterous monstrous 
-unfair wrongunqualiﬁed excluded .
+unfair wrongunquali?ed excluded .
 =
 keyC  admission . 
 synC concession allowance acknowledgement . acceptance .

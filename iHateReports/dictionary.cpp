@@ -20,11 +20,16 @@ bool Dictionary::initGutenberg(Trie*& trie)
 		int j = 0;
 		while (gutenFile >> x)
 		{
+			if (x == ".")
+			{
+				checkSyn = false;
+				checkKey = false;
+			}
 			if (checkKey)
 			{
-				x.erase(x.length() - 1, 1);
+				//x.erase(x.length() - 1, 1);
 				trie->insert(x, holder);
-				checkKey = false;
+				
 				//cout << x << endl;
 				/*for (int r = 0; r < 50; r++)
 				{
@@ -32,20 +37,16 @@ bool Dictionary::initGutenberg(Trie*& trie)
 				}*/
 				j = 0;
 			}
-			if (x == "ANT:")
-			{
-				checkSyn = false;
-			}
 			if (checkSyn)
 			{
 				holder->fillSynArray(holder, x, j);
 				j++;
 			}
-			if (x == "KEY:")
+			if (x == "keyC")
 			{
 				checkKey = true;
 			}
-			if (x == "SYN:")
+			if (x == "synC")
 			{
 				checkSyn = true;
 			}

@@ -37,34 +37,44 @@ const string Txtfile::readFile()
 	return returnString;
 }
 
-void Txtfile::trimTxt(Txtfile output)
+void Txtfile::trimTxt(Txtfile output) // Make sure file has all braces converted to A, and quotations converted to B
 {
 	ifstream inputFile;
 	ofstream outputFile;
 	inputFile.open(fileName);
 	outputFile.open(output.fileName);
 	string x;
+	bool read = true;
 	while (getline(inputFile, x) && x != "")
 	{
 		string holder = "";
 		for (size_t i = 0; i < x.length(); i++)
 		{
-			if (((x[i] + 32) >= 97 && x[i] <= 122))
+			if (x[i] == 65)
 			{
-				if (x[i] >= 97)
+				if (read)
+				{
+					read = false;
+				}
+				else
+				{
+					read = true;
+				}
+			}
+			if (read && x[i] != 65)
+			{
+				if (x[i] == 66)
+				{
+					holder += "-";
+				}
+				else
 				{
 					holder += x[i];
-				}	
-			}
-			else
-			{
-				holder += " ";
+				}
 			}
 		}
 		outputFile << holder << endl;
 	}
 	inputFile.close();
 	outputFile.close();
-	string test = "brack[\]\{\(}/";
-	cout << test << endl;
 }
