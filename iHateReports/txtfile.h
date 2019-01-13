@@ -13,4 +13,5 @@ public:
 	const string getFileName();
 	const void writeToFile(string);
 	const string readFile();
+	void trimTxt(Txtfile); // trim a text Document to remove non-alphabetical characters
 };

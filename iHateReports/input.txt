@@ -1,1 +1,15 @@
-testing text number two
+KEY: Obscure \a.\.
+SYN: Dark, dim, lowering, indistinct, enigmatical, uncertain,
+doubtful, unascertained, humble, unintelligible, mean.
+ANT: Bright, luminous, distinct, lucid, plain, plain spoken,
+intelligible, unambiguous, ascertained, eminent, prominent.
+=
+KEY: Obliterate \v.\, [See EFFACE].
+=
+KEY: Observe.
+SYN: Remark, mark, watch, note, behold, perceive keep, heed, respect,
+[See PERCEIVE].
+=
+KEY: Occasion \v.\.
+SYN: Cause, make, create, [See PRODUCE and CREATE].
+=

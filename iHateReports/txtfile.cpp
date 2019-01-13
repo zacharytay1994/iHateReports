@@ -1,5 +1,6 @@
 #include "pch.h"
 #include "txtfile.h"
+#include <ctype.h>
 
 Txtfile::Txtfile()
 {
@@ -34,4 +35,36 @@ const string Txtfile::readFile()
 		returnString += x + " ";
 	}
 	return returnString;
+}
+
+void Txtfile::trimTxt(Txtfile output)
+{
+	ifstream inputFile;
+	ofstream outputFile;
+	inputFile.open(fileName);
+	outputFile.open(output.fileName);
+	string x;
+	while (getline(inputFile, x) && x != "")
+	{
+		string holder = "";
+		for (size_t i = 0; i < x.length(); i++)
+		{
+			if (((x[i] + 32) >= 97 && x[i] <= 122))
+			{
+				if (x[i] >= 97)
+				{
+					holder += x[i];
+				}	
+			}
+			else
+			{
+				holder += " ";
+			}
+		}
+		outputFile << holder << endl;
+	}
+	inputFile.close();
+	outputFile.close();
+	string test = "brack[\]\{\(}/";
+	cout << test << endl;
 }

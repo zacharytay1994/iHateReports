@@ -10,3 +10,40 @@ ANT: Pursue, prosecute, undertake, seek, court, cherish, favor,
 protect, claim, maintain, defend, advocate, retain, support, uphold,
 occupy, haunt, hold, assert, vindicate, keep.
 =
+KEY: Abandoned.
+SYN: Profligate, wicked, vicious, unprincipled, reprobate,
+incorrigible, sinful, graceless, demoralized, dissolute, depraved,
+bad, licentious, corrupt.
+ANT: Virtuous, conscientious, correct, upright, worthy, righteous,
+self-controlled, high-principled, steady, good.
+=
+KEY: Abase.
+SYN: Degrade, disgrace, bring low, reduce, humble, demean, stoop,
+humiliate, depress, lower, sink, dishonor.
+ANT: Promote, exalt, honor, raise, elevate, dignify, aggrandize.
+=
+KEY: Abasement.
+SYN: Degradation, depression, disgrace, humiliation, abjection,
+dishonor, shame.
+ANT: Promotion, elevation, honor, exaltation, dignity,
+aggrandizement.
+=
+KEY: Abash.
+SYN: Confound, confuse, discompose, bewilder, daunt, cow, humble,
+disconcert, dishearten, motility, shame, humiliate.
+ANT: Countenance, cheer, uphold, encourage, rally, inspirit, animate,
+incite, embolden, abet, buoy.
+=
+KEY: Abate.
+SYN: Terminate, remove, suppress, lower, reduce, mitigate, diminish,
+moderate, lessen, subside, decrease.
+ANT: Prolong, continue, revive, develop, increase, aggravate,
+magnify, brew, ferment, rage, extend, enlarge, amplify, raise,
+enhance.
+=
+KEY: Abbreviate.
+SYN: Shorten, reduce, abridge, contract, curtail, epitomize,
+condense, prune, compress.
+ANT: Lengthen, prolong, extend, enlarge, produce, elongate, amplify,
+expand, dilate.
+=
