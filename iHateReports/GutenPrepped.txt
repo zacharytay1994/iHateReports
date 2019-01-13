@@ -23081,7 +23081,7 @@ synC perhaps perchance haply maybe Osee perhapsP .
 keyC port Osee situationP .
 =
 keyC posterior .
-synC later subsequent .
+synC later subsequent back .
 antC earlier precedent antecedent prior .
 =
 keyC posterity .

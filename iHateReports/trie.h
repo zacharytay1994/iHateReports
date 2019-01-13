@@ -23,6 +23,8 @@ public:
 	void fillSynArray(Trie*, string, int);
 	// Search from dictionary
 	const bool search(const string);
+	// Search Synonyms
+	bool getWord(string, Trie*&);
 	// Display all words from closest input
 	const void searchClosest(Trie*, const string);
 	// Find and display words from closest address

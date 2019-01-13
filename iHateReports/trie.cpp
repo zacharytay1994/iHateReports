@@ -67,6 +67,28 @@ const bool Trie::search(const string key)
 	return current->isLeaf; // If entire word is found, last letter->isLeaf would return true
 }
 
+bool Trie::getWord(string _string, Trie*& trie)
+{
+	Trie* current = this;
+	if (!current->search(_string))
+	{
+		cout << "Word does not exist in dictionary" << endl;
+		return false;
+	}
+	else
+	{
+		for (size_t i = 0; i < _string.length(); i++)
+		{
+			current = current->character[_string[i]];
+		}
+		if (current->isLeaf)
+		{
+			trie = current;
+			return true;
+		}
+	}
+}
+
 const void Trie::searchClosest(Trie* trie, string prefix)
 {
 	bool check = true;
@@ -117,7 +139,8 @@ void Trie::traverse(string prefix, Trie* trie)
 			}
 			else
 			{
-				cout << tempString << endl;	// Else print out word
+				cout << "Word Found: " + tempString << endl;	// Else print out word
+				cout << "---- Synonym ----" << endl;
 				for (int z = 0; z < 50; z++)
 				{
 					if (!(temp->synonym[z] == ""))
