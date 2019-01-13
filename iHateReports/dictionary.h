@@ -3,6 +3,9 @@
 #include <string>
 #include "txtfile.h"
 #include "trie.h"
+#include <fstream>
+#include <random>
+
 using namespace std;
 
 class Dictionary {
@@ -20,4 +23,8 @@ public:
 	bool initGutenberg(); // To initiate a dictionary with the Gutenberg ebook format
 	// Print out synonyms
 	void displaySyn(string);
+	// Returns a random synonym
+	bool returnSyn(string&);
+	// Paraphrase text file
+	void paraphrase(Txtfile);
 };

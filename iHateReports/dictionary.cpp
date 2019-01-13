@@ -16,6 +16,7 @@ Trie* Dictionary::getRoot()
 	else
 	{
 		cout << "Dictionary not initialized" << endl;
+		return root;
 	}
 }
 
@@ -94,4 +95,65 @@ void Dictionary::displaySyn(string _string)
 	{
 		cout << "Dictionary not initialized, initGutenberg()." << endl;
 	}
+}
+
+bool Dictionary::returnSyn(string& _string)
+{
+	if (root != nullptr)
+	{
+		std::mt19937 rng;
+		rng.seed(std::random_device()());
+		std::uniform_int_distribution<std::mt19937::result_type> dist50(1, 50);
+		string temp;
+		bool check = true;
+		Trie* wordLoc = new Trie;
+		
+		if (root->getWord(_string, wordLoc))
+		{
+			/*temp = wordLoc->synonym[dist50(rng)];
+			if (temp != "")
+			{
+				_string = temp;
+				check = false;
+				return true;
+			}*/
+			temp = wordLoc->synonym[0];
+			if ( temp != "")
+			{
+				_string = temp;
+				check = false;
+				return true;
+			}
+		}
+		else
+		{
+			check = false;
+			return false;
+		}
+	}
+	return false;
+}
+
+void Dictionary::paraphrase(Txtfile input)
+{
+	
+	ifstream readTxt;
+	ofstream writeTxt;
+	readTxt.open(input.getFileName());
+	writeTxt.open("paraphrased.txt");
+	string x;
+	while (readTxt >> x)
+	{
+		if (root->search(x))
+		{
+			returnSyn(x);
+		}	
+		writeTxt << x + " ";
+		/*else
+		{
+			writeTxt << x + " ";
+		}*/
+	}
+	readTxt.close();
+	writeTxt.close();
 }

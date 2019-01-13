@@ -26020,9 +26020,9 @@ synC remunerate reimburse recompense reward retaliate requiter fund .
 antC defraud misappropriate embezzle waste alienate extort
 confiscate exact .
 =
-keyC repeal reappellare turn back .) synC abolish revoke rescind
-cancel annul recal abrogate reverse discontinue rescind
-make void .
+keyC repeal reappellare turn back .
+synC abolish revoke rescind cancel annul recal abrogate
+reverse discontinue rescind make void .
 antC continue establish pass institute sanction enact
 perpetuate confirm .
 =

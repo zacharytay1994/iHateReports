@@ -84,8 +84,8 @@ bool Trie::getWord(string _string, Trie*& trie)
 		if (current->isLeaf)
 		{
 			trie = current;
-			return true;
 		}
+		return true;
 	}
 }
 
