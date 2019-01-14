@@ -36,8 +36,8 @@ void Trie::insert(string key, Trie*& trie)
 		current = current->character[temp]; // Traverse from root to existing or newly created trie address
 	}
 	// Mark current node as leaf
-	trie = current;
 	current->isLeaf = true;
+	trie = current;
 }
 
 void Trie::fillSynArray(Trie* trie, string _word, int i)

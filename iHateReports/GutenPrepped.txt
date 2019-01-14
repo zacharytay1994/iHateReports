@@ -24851,7 +24851,7 @@ synC libertine roue debauchee .
 keyC rakish .
 synC licentious dissolute wanton lewd loose Osee boundlessP .
 =
-keyC rally Avt .A and Avi .A .
+keyC rally Avt .A Avi .A .
 synC recal reunite inspirit assemble congregate animate
 recover reassure .
 antC demoralize disperse disband .
@@ -29918,7 +29918,7 @@ keyC succumb .
 synC surrender comply submit acquiesce yield sink resign .
 antC resist rise contend battle fight surmount .
 =
-keyC suck in .
+keyC suck-in .
 synC absorb imbibe .
 antC throw out eject .
 =
@@ -33689,7 +33689,7 @@ keyC yearn .
 synC long hanker crave covet desire .
 antC loathe revolt recoil shudder .
 =
-keyC yearn for .
+keyC yearn-for .
 synC long for be eager for Osee yearnP .
 =
 keyC yearly .

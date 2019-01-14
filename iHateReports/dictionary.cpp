@@ -140,14 +140,19 @@ void Dictionary::paraphrase(Txtfile input)
 	ifstream readTxt;
 	ofstream writeTxt;
 	readTxt.open(input.getFileName());
-	writeTxt.open("paraphrased.txt");
+	writeTxt.open("paraphrase.txt");
 	string x;
 	while (readTxt >> x)
 	{
+		Word y(x);
+		y.stripPunctuation();
+		x = y.getWord();
+		//cout << x << endl;
 		if (root->search(x))
 		{
 			returnSyn(x);
 		}	
+		y.packPunctuation(x);
 		writeTxt << x + " ";
 		/*else
 		{

@@ -5,6 +5,7 @@
 #include "trie.h"
 #include <fstream>
 #include <random>
+#include "word.h"
 
 using namespace std;
 
