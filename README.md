@@ -17,6 +17,10 @@ Without calling an established dictionary API, data is limited.
 Reading of words with different tenses is not yet implemented, hence words with tenses that differ from the base words in the dictionary
 will not get paraphrased.
 
+## An Example Output
+[[https://github.com/zacharytay1994/iHateReports/blob/master/exampleone.PNG]]
+Yeah it's very very very basic.
+
 ## References
 Dictionary data taken from http://www.gutenberg.org/ebooks/51155. References can be found in 51155-0.txt.
 
