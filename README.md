@@ -30,6 +30,7 @@ It's very primitive as per the limitations.
 Dictionary data taken from http://www.gutenberg.org/ebooks/51155. References can be found in 51155-0.txt.
 
 ## Future implementations?
+### Intermediate 
 1. Implement reading of words with different tenses to reduce the amount of data needed (instead of treating the same word with
 a different tense as a different word).
 
@@ -37,11 +38,12 @@ a different tense as a different word).
 
 3. Allow for phrases to be synonyms.
 
-4. Allow for phrases to be keys, a different method of reading text to accomodate this.
+4. Allow for phrases to be keys, a different method of reading text to accommodate this.
 
 5. A priority system for synonyms, most used > least used.
 
-6. Add a user interface to support more functionalities.
-
+6. Semi-automatic paraphrasing option (with some degree of control)
+### Advanced
+1. Sentence structure rules/recognition
 ## Disclaimers
 This is just a fun little project to practice my basic c++ proficiency. Feel free to clone/fork/reproduce at your leisure, preferably fork and contribute here!;D
