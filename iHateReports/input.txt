@@ -1,1 +1,391 @@
-testing text number two
+keyC aback .
+synC backwards rearwards aft abaft astern behind back .
+antC onwards forwards ahead before afront beyond afore .
+=
+keyC abandon .
+synC leave forsake desert renounce cease relinquish
+discontinue castoff resign retire quit forego forswear
+depart from vacate surrender abjure repudiate .
+antC pursue prosecute undertake seek court cherish favor
+protect claim maintain defend advocate retain support uphold
+occupy haunt hold assert vindicate keep .
+=
+keyC abandoned .
+synC profligate wicked vicious unprincipled reprobate
+incorrigible sinful graceless demoralized dissolute depraved
+bad licentious corrupt .
+antC virtuous conscientious correct upright worthy righteous
+self-controlled high-principled steady good .
+=
+keyC abase .
+synC degrade disgrace bring low reduce humble demean stoop
+humiliate depress lower sink dishonor .
+antC promote exalt honor raise elevate dignify aggrandize .
+=
+keyC abasement .
+synC degradation depression disgrace humiliation abjection
+dishonor shame .
+antC promotion elevation honor exaltation dignity
+aggrandizement .
+=
+keyC abash .
+synC confound confuse discompose bewilder daunt cow humble
+disconcert dishearten motility shame humiliate .
+antC countenance cheer uphold encourage rally inspirit animate
+incite embolden abet buoy .
+=
+keyC abate .
+synC terminate remove suppress lower reduce mitigate diminish
+moderate lessen subside decrease .
+antC prolong continue revive develop increase aggravate
+magnify brew ferment rage extend enlarge amplify raise
+enhance .
+=
+keyC abbreviate .
+synC shorten reduce abridge contract curtail epitomize
+condense prune compress .
+antC lengthen prolong extend enlarge produce elongate amplify
+expand dilate .
+=
+keyC abbreviation .
+synC abridgment reduction contraction curtailment abstract
+summary epitome condensation compression .
+antC elongation prolongation extension production amplification
+enlargement expansion dilation expatiation explication
+dilution .
+=
+keyC abderite .
+synC cynic sardonic derisive sarcastic jocular flippant
+nonchalant sportive sprightful buoyant .
+antC lachrymose plaintive maundering querimonious plaintive
+dolesome lackadaisical grumbling croaking lugubrious .
+=
+keyC abdicate .
+synC abandon relinquish resign surrender vacate .
+antC retain maintain claim occupy assert grasp seize usurp .
+=
+keyC abdomen .
+synC belly paunch .
+=
+keyC abduction .
+synC abstraction subtraction deprivation ablution rape seizure
+appropriation .
+antC addition adduction replacement restitution restoration
+surrender reinstatement .
+=
+keyC aberrant .
+synC erratic devious divergent incontinuous desultory
+disconnected wandering idiotic inconsistent inconsecutive
+abnormal exceptional .
+antC continuous rectilineal true consistent uniform consecutive
+normal natural faithful regular .
+=
+keyC aberration .
+synC wandering divergence deviation desultoriness rambling
+disconnectedness hallucination inconsecutiveness idiocy
+insanity exception abnormity .
+antC uniformity consecutiveness continuity connectedness
+principle law order type norm project line tenor progression
+rectilinearity regularity .
+=
+keyC abet .
+synC aid support promote countenance uphold assist instigate
+encourage incite advocate sanction subsidize embolden .
+antC thwart contradict obstruct oppose baffle confound
+discourage disapprove disconcert counteract deter dissuade
+frustrate impede denounce expose .
+=
+keyC abettor .
+synC supporter advocate instigator promoter assistant companion
+accomplice ally encourager associate adviser confederate
+Bparticipes criminisB coadjutor accessary helper .
+antC opponent counteracter foe adversary detector baffler
+antagonist disconcerter dissuader rival .
+=
+keyC abeyance .
+synC suspension reservation dormancy expectation intermission .
+antC revival renewal operation resuscitation action enjoyment
+possession exercise force .
+=
+keyC abhor .
+synC hate abominate detest loathe despise dislike eschew
+nauseate .
+antC love admire enjoy approve affect covet relish crave
+desire .
+=
+keyC abide .
+synC dwell stay inhabit continue rest tarry lodge reside live
+wait sojourn remain expect endure tolerate anticipate
+confront await bear face watch .
+antC deport migrate move journey proceed resist mislike
+forefend avoid shun reject abandon forfeit .
+=
+keyC ability .
+synC power cleverness faculty skill capacity talent expertness
+aptitude dexterity efficiency competency qualification .
+antC weakness incapacity imbecility inability unreadiness
+maladroitness .
+=
+keyC abject .
+synC degraded outcast miserable vile pitiable worthless
+despicable groveling fawning squalid base-minded slavish
+beggarly servile cringing low wretched sordid .
+antC honorable dignified eminent exalted esteemed worthy
+venerable noble princely illustrious independent
+self-assertive self-reliant vain arrogant insolent haughty .
+=
+keyC abjure .
+synC renounce deny apostatize discard recant disclaim disavow
+repudiate revoke retract disown .
+antC profess assert demand vindicate claim cherish advocate
+retain acknowledge appropriate hug .
+=
+keyC able .
+synC strong powerful clever skillful talented capable fitted
+efficient effective learned gifted masterly telling nervous
+vigorous .
+antC weak inefficient unskillful silly stupid incapable
+ineffective unqualified .
+=
+keyC ablution .
+synC washing purification cleansing abstersion defecation .
+antC pollution soilure defilement dirt contamination taint
+stain .
+=
+keyC abnegation .
+synC denial disallowance renunciation abjuration stint
+abstinence .
+antC assertion vindication claim indulgence concession license .
+=
+keyC abnormal .
+synC irregular erratic peculiar unusual exceptional monstrous
+aberrant devious divergent eccentric strange .
+antC typical normal regular ordinary usual natural customary
+illustrative .
+=
+keyC aboard .
+synC afloat .
+antC ashore .
+=
+keyC abode .
+synC home stay placate residence domicile habitation lodging
+berth quarters Awith the idea of permanenceA .
+antC halt perch tent bivouac caravansary
+Awith the idea of transienceA .
+=
+keyC abolish .
+synC destroy eradicate invalidate make void obliterate
+extirpate abrogate annul subvert cancel revoke quash nullify
+overthrow annihilate supersede suppress expunge .
+antC support sustain cherish promote continue confirm restore
+repair revive reinstate enact institute re-enact .
+=
+keyC abominable .
+synC abhorrent foul accursed detestable hateful horrible
+loathsome odious offensive execrable nauseous impure .
+antC delectable desirable admirable enjoyable lovable charming
+delightful grateful pure .
+=
+keyC abominate .
+synC abhor loathe detest execrate hate .
+antC desire like long for love .
+=
+keyC abomination .
+synC loathing detestation hatred abhorrence plague nuisance
+evil annoyance infliction curse .
+antC love affection desire enjoyment longing acquisition
+gratification blessing treat delight benefit .
+=
+keyC aboriginal .
+synC primordial primeval pristine autochthonic immemorial
+indigenous native original .
+antC subsequent adventitious imported exotic immigrant recent
+upstart modern late novel fresh .
+=
+keyC abortion .
+synC failure miscarriage misadventure downfall mishap
+misproduction defect frustration blunder mess .
+antC success consummation completion achievement realization
+perfection exploit feat development .
+=
+keyC abound .
+synC stream swell flow increase overflow superabound luxuriate
+teem swarm flourish prevail be plentiful wanton revel
+multiply .
+antC fall waste dry lack wane evaporate drain die decay
+vanish lessen decrease .
+=
+keyC about .
+synC almost Awith respect toA near nearly touching concerning
+surrounding relative to relating to Ain relation toA
+approximately touching roughly generally .
+antC afar Aaway or afar fromA precisely exactly .
+=
+keyC above-named .
+synC above-mentioned above-described above-cited named above
+aforesaid mentioned above .
+antC named below described below .
+=
+keyC above .
+synC over beyond exceeding .
+antC below within beneath .
+=
+keyC abreast .
+synC beside alongside .
+antC ahead astern .
+=
+keyC abridge .
+synC abbreviate diminish shorten lessen curtail restrict
+contract tract condense epitomize compress .
+antC amplify expand spread out .
+=
+keyC abridgment .
+synC abstract abbreviation contraction summary synopsis epitome
+compendium analysis outline digest .
+antC amplification expatiation expansion disquisition dilution
+comment annotation exposition paraphrase .
+=
+keyC abroach .
+synC aflow afloat abroad revealed .
+antC close fast tight secret reserved .
+=
+keyC abroad .
+synC far away apart dispersed aloof adrift about distracted
+confused .
+antC near close housed collected fast .
+=
+keyC abrogate .
+synC abolish cancel set aside annul repeal expunge rescind .
+antC enact re-enact confirm enforce continue revive .
+=
+keyC abrogation .
+synC abolition repeal discontinuance disestablishment .
+antC institution establishment enactment confirmation
+continuance sanction .
+=
+keyC abrupt .
+synC sudden steep precipitous craggy coarse curt blunt violent
+harsh unceremonious rugged rough .
+antC undulating easy gliding polished smooth blending
+courteous .
+=
+keyC abscond .
+synC decamp bolt depart disappear steal away run off hide
+withdraw retreat .
+antC show emerge appear .
+=
+keyC absence .
+synC want departure inattention nonexistence failure separation
+lack nonappearance distraction .
+antC presence supply appearance existence manifestation
+evidence attention immanence inherency consideration .
+=
+keyC absent Aa .A .
+synC not present gone away elsewhere inattentive thoughtless
+listless preoccupied .
+antC present in this place here attentive .
+=
+keyC absent .
+synC keep away depart withdraw .
+antC be present stay remain Asee abscondA .
+=
+keyC absolute .
+synC perfect complete unconditional irrelative irrespective
+supreme despotic autocratic certain authoritative unqualified
+unequivocal irresponsible arbitrary .
+antC imperfect incomplete conditional conditioned contingent
+relative dependent constitutional dubious accountable
+responsible .
+=
+keyC absolve .
+synC acquit release exonerate liberate exempt discharge
+exculpate pardon forgive free clear .
+antC charge accuse compel bind obligate convict condemn
+inculpate impeach oblige .
+=
+keyC absonant .
+synC dissonant discordant contrariant repugnant inconsonant
+inharmonious incompatible inappropriate impertinent .
+antC consonant agreeable consistent harmonious compatible
+appropriate pertinent congruous suitable proper .
+=
+keyC absorb .
+synC swallow drown consume imbibe engross drink in suck up
+engulf monopolize exhaust .
+antC eject emit exude disgorge dissipate distract distil
+disperse .
+=
+keyC abstain .
+synC refrain forbear refuse demur avoid cease stop keep back
+desist discontinue withhold scruple .
+antC indulge exceed reveal wanton .
+=
+keyC abstemious .
+synC abstinent moderate self-denying sober temperate sparing
+frugal .
+antC sensual self-indulgent gluttonous greedy intemperate .
+=
+keyC absterge .
+synC wipe cleanse purify sponge scour scrub .
+antC foul bespatter contaminate bedaub soil pollute begrime .
+=
+keyC abstersive .
+synC scouring purifying detergent cathartic .
+antC contaminative offensive corruptive .
+=
+keyC abstinent .
+synC temperate abstemious continent sober self-denying austere .
+antC self-indulgent sensual intemperate epicurean dissipated
+incontinent debauched .
+=
+keyC abstract Av .A .
+synC separate detach part eliminate draw away remove take away
+appropriate purloin steal thieve draw from .
+antC add unite conjoin adduce impose restore surrender return .
+=
+keyC abstract An .A Asee abridgmentA .
+=
+keyC abstraction .
+synC separation purloining removal appropriation
+generalization classification reverie absorption inattention
+absence .
+antC addition conjunction union adduction importation
+restoration restitution individualization enumeration analysis
+specification observation attention .
+=
+keyC abstracted Asee abstract and abstractionA .
+=
+keyC abstruse .
+synC hidden recondite difficult profound deep curious obscure
+mystical occult hard dark .
+antC patent popular superficial simple obvious trite
+intelligible lucid plain easy manifest clear .
+=
+keyC absurd .
+synC irrational ridiculous monstrous senseless asinine stupid
+chimerical unreasonable preposterous silly nonsensical
+foolish .
+antC sensible rational reasonable consistent sound substantial
+logical wise sagacious reflective philosophical .
+=
+keyC abundance .
+synC plenty largeness copiousness sufficiency plentitude
+exuberance ampleness profusion luxuriance wealth .
+antC rarity scarcity paucity deficiency scantiness dearth
+failure poverty .
+=
+keyC abundant .
+synC plentiful copious plenteous large ample overflowing
+teeming full lavish luxuriant bountiful abounding profuse
+liberal rich .
+antC rare scarce scant deficient short insufficient niggardly
+sparing dry drained exhausted impoverished .
+=
+keyC abuse Av .A .
+synC injure damage spoil maltreat treat-all ill-use ill-treat
+retile scandalize disparage reproach upbraid asperse malign
+slander vituperate prostitute defame pervert misuse misemploy
+vilify .
+antC tend protect conserve consider regard shield cherish
+praise extol laud vindicate panegyrize respect .
+=
