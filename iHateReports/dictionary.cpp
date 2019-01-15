@@ -103,27 +103,37 @@ bool Dictionary::returnSyn(string& _string)
 	{
 		std::mt19937 rng;
 		rng.seed(std::random_device()());
-		std::uniform_int_distribution<std::mt19937::result_type> dist50(1, 50);
+		std::uniform_int_distribution<std::mt19937::result_type> dist50(0, 25);
 		string temp;
 		bool check = true;
 		Trie* wordLoc = new Trie;
 		
 		if (root->getWord(_string, wordLoc))
 		{
-			/*temp = wordLoc->synonym[dist50(rng)];
-			if (temp != "")
+			while (check)
 			{
-				_string = temp;
-				check = false;
-				return true;
-			}*/
-			temp = wordLoc->synonym[0];
+				if (wordLoc->checkSyn())
+				{
+					temp = wordLoc->synonym[dist50(rng)];
+					if (temp != "")
+					{
+						_string = temp;
+						check = false;
+						return true;
+					}
+				}	
+				else
+				{
+					check = false;
+				}
+			}
+			/*temp = wordLoc->synonym[0];
 			if ( temp != "")
 			{
 				_string = temp;
 				check = false;
 				return true;
-			}
+			}*/
 		}
 		else
 		{

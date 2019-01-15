@@ -45,6 +45,21 @@ void Trie::fillSynArray(Trie* trie, string _word, int i)
 	trie->synonym[i] = _word;
 }
 
+bool Trie::checkSyn()
+{
+	for (int i = 0; i < WORD_SIZE; i++)
+	{
+		if (synonym[i] != "")
+		{
+			return true;
+		}
+		else
+		{
+			return false;
+		}
+	}
+}
+
 const bool Trie::search(const string key)
 {
 	// If object trie is empty
