@@ -33,5 +33,5 @@ a different tense as a different word).
 5. A priority system for synonyms, most used > least used.
 
 ## Disclaimers
-This is just a little fun project to practice my c++ game. Feel free to clone/fork/reproduce at your leisure, preferably fork
+This is just a fun little project to practice my basic c++ proficiency. Feel free to clone/fork/reproduce at your leisure, preferably fork
 and contribute here!;D
