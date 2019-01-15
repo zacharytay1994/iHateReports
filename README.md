@@ -18,8 +18,9 @@ Reading of words with different tenses is not yet implemented, hence words with 
 will not get paraphrased.
 
 ## An Example Output
-[[https://github.com/zacharytay1994/iHateReports/blob/master/exampleone.PNG]]
-Yeah it's very very very basic.
+https://github.com/zacharytay1994/iHateReports/blob/master/exampleone.PNG
+
+It's very primitive as per the limitations.
 
 ## References
 Dictionary data taken from http://www.gutenberg.org/ebooks/51155. References can be found in 51155-0.txt.
@@ -37,5 +38,4 @@ a different tense as a different word).
 5. A priority system for synonyms, most used > least used.
 
 ## Disclaimers
-This is just a fun little project to practice my basic c++ proficiency. Feel free to clone/fork/reproduce at your leisure, preferably fork
-and contribute here!;D
+This is just a fun little project to practice my basic c++ proficiency. Feel free to clone/fork/reproduce at your leisure, preferably fork and contribute here!;D
