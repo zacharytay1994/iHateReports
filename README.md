@@ -37,5 +37,7 @@ a different tense as a different word).
 
 5. A priority system for synonyms, most used > least used.
 
+6. Add a user interface to support more functionalities.
+
 ## Disclaimers
 This is just a fun little project to practice my basic c++ proficiency. Feel free to clone/fork/reproduce at your leisure, preferably fork and contribute here!;D
