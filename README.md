@@ -17,6 +17,10 @@ Without calling an established dictionary API, data is limited.
 Reading of words with different tenses is not yet implemented, hence words with tenses that differ from the base words in the dictionary
 will not get paraphrased.
 
+Cannot yet recognize degree of Word: e.g. like/love, give/bestow. They are technically synonyms but the degree of emphasis is different.
+
+Unable to determine context, does not recognize word form e.g. verbs, noun, adjectives etc. Hence unable to determine sentence structure and appropriate synonym to use.
+
 ## An Example Output
 https://github.com/zacharytay1994/iHateReports/blob/master/exampleone.PNG
 
