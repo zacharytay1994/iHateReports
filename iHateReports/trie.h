@@ -21,6 +21,8 @@ public:
 	void insert(string, Trie*&);
 	// Fills a word's synonym array
 	void fillSynArray(Trie*, string, int);
+	// Check is pointer has synonyms
+	bool checkSyn();
 	// Search from dictionary
 	const bool search(const string);
 	// Search Synonyms
