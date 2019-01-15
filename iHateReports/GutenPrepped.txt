@@ -871,7 +871,7 @@ contiguous close nigh bordering
 conterminous
 ant . remote distant separate
 =
-keyCadjoin Av .A .t .A .
+keyC adjoin Av .A .
 synC  annex add connect append supplement . attach
 unite . Av .A i . A border neighbor touch abut approximate . verge trench .
 antC  Av .A .t .A disjoin dismember disconnect detach disintegrate 
@@ -1090,7 +1090,7 @@ synC ill-luck misfortune misery calamity disaster distress
 unsuccess failure ruin trouble affliction sorrow .
 antC good-luck prosperity happiness success advancement .
 =
-keyC advert to .
+keyC advert-to .
 synC refer to allude to notice remark glance at regard
 touch upon hint at .
 antC ignore pass drop omit overlook .
@@ -3394,7 +3394,7 @@ antC unrelated unconnected irrelevant impertinent alien
 uncongenial discretional optional uninvolved unimplied
 independent .
 =
-keyC belong to .
+keyC belong-to .
 synC pertain to appertain to regard relate to .
 antC not to belong to not to appertain to not to relate to .
 =
@@ -3986,7 +3986,7 @@ synC limit boundary brink rim verge brim edge edging band
 hem enclosure confine .
 antC land tract interior substance space centre .
 =
-keyC border on .
+keyC border-on .
 synC Obe contiguous toP Obe adjacent toP Oconterminous withP
 adjoin adjacent to .
 antC remote from away from .
@@ -15425,7 +15425,7 @@ keyC impose .
 synC lay inflict fix set place enjoin .
 antC remove disburden .
 =
-keyC impose on .
+keyC impose-on .
 synC delude deceive dupe circumvent Osee cheatP .
 =
 keyC imposing .
@@ -18074,8 +18074,8 @@ keyC laudation Osee panegyricP .
 =
 keyC laughable Osee ridiculousP .
 =
-keyC laugh at .
-synC mock at ridicule deride Osee mockP .
+keyC laugh-at .
+synC mock-at ridicule deride Osee mockP .
 =
 keyC laughter .
 synC merriment glee derision ridicule cachinnation contempt .
@@ -18651,7 +18651,7 @@ keyC look Av .A .
 synC see behold contemplate observe seem appear face .
 antC overlook miss misobserve misbeseem lurk smoulder .
 =
-keyC look at .
+keyC look-at .
 synC see view eye gaze at behold witness inspect .
 antC Osee lookP .
 =
@@ -20831,7 +20831,7 @@ synC appearance sight design end aim motive intent view goal .
 antC idea notion conception fancy subject proposal purpose
 effect .
 =
-keyC object to Av .A .
+keyC object-to Av .A .
 synC oppose contravene obstruct defer to except to gainsay
 disapprove .
 antC approve approve of .
@@ -22441,7 +22441,7 @@ keyC pert Aa .A .
 synC flippant saucy impudent forward .
 antC modest retiring bashful demure staid .
 =
-keyC pertain to .
+keyC pertain-to .
 synC belong to relate to appertain to regard concern .
 antC be foreign to .
 =
@@ -24987,7 +24987,7 @@ keyC rate Av .A .
 synC compute calculate estimate value scold abuse appraise
 Osee appraise compute and abuseP .
 =
-keyC rather than .
+keyC rather-than .
 synC sooner than in preference to .
 =
 keyC ratify .

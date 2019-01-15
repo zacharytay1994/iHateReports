@@ -16,6 +16,7 @@ private:
 	Trie* holder = nullptr;
 	Trie* root = nullptr;
 public:
+	bool compareCaps = false;
 	//Dictionary();
 	Dictionary(Txtfile, string);
 	// Return root

@@ -144,15 +144,18 @@ void Dictionary::paraphrase(Txtfile input)
 	string x;
 	while (readTxt >> x)
 	{
-		Word y(x);
-		y.stripPunctuation();
-		x = y.getWord();
-		//cout << x << endl;
-		if (root->search(x))
+		if (x[0] >= 97 || compareCaps == true)
 		{
-			returnSyn(x);
+			Word y(x);
+			y.stripPunctuation();
+			x = y.getWord();
+			//cout << x << endl;
+			if (root->search(x))
+			{
+				returnSyn(x);
+			}
+			y.packPunctuation(x);
 		}	
-		y.packPunctuation(x);
 		writeTxt << x + " ";
 		/*else
 		{

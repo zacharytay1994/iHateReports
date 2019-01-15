@@ -871,182 +871,182 @@ contiguous close nigh bordering
 conterminous
 ant . remote distant separate
 =
-keyCadjoin  .t .
+keyC adjoin  .
+synC  annex add connect append supplement . attach
+unite .  i . 
+v . disjoin dismember disconnect detach disintegrate 
+disunite . i
 
-v . border neighbor touch abut approximate . verge trench .
-antC   .t .
-v .  . part separate recede return diverge be distant removed
-remote incontiguous .
-=
-keyC adjourn . 
-syn . postpone suspend defer prorogue delay protract put off  .
-antC  expedite despatch urge
-hasten conclude complete sealconsummate terminate .
-=
-keyC adjudge adjudicate .
-syn . confer award assign present decide
-arbitrate .
-ant . withheld reserve retain refuse dismiss relegate;
-=
-keyC adjunct .
-synC . addition additament
-attachment appendage auxiliary
-appurtenance aid acquisition advantage help .
-ant . essence substance body
-clog detriment impediment draw .
-geek hindrance obstruction detraction .
-=
-keyC adjure . 
-synC conjure entreat en join urge supplicate move beseech
-command .
-atnC  deprecate remonstrate dareexpostulate warn . dissuade prohibit .
-inhibit defy .
-=
-keyC adjust .
-synC  harmonize collocate
-arrange localize adapt affix right
-suit classify set in order reconcile
-accommodate compose .
-ant . dislocate disarrange disturb
-confound dismember disorder confuse discompose derange .
-=
-keyC  adjuvant . 
-synC  accessory auxiliary promotive productive assistant
-ministrative ancillary useful . conducive .
-antC  obstructive detractive retardative preventive counteractive
-irrelevant useless .
-=
-keyC  admeasurement . 
-synC size adjustment dimensions adaptation .
-antC  misshapement misconformity mis?t mismatch 
-mismeasurement .
-=
-keyC  adminlster . 
-synC  distributeaward
-accord dole give impart afford discharge dispense execute perform
-furnish contribute conduct .
-antC  withdraw withhold refuse
-retain assume resume resign deny
-divert appropriate misadminister
-betray misconduct mismanage .
-=
-keyC  admirable . 
-synC  wonderful excellent . surprising astonishing praise-
-worthy pleasing .
-antC . commonplace mediocre ridiculous abominable displeasing .
-=
-keyC  admiration . 
-synC  wonder approval appreciation adoration reverence .
-antC  disapproval disesteem contumely opprobrium ridicule 
-contempt . dislike .
-=
-keyC  admire . 
-syn .C wonder gaze approve appreciate extol esteem love
-applaud affect adore revere . respect .
-antC  abhor ridicule . disesteem .
-execrate . abominate contemn mislike despise alight .
-=
-keyC  admissible . 
-synC  allowable permissible probable reasonable get
-properfair right qualified .
-antC  unallowable inadmissible
-improper unreasonable absurd preposterous monstrous 
-unfair wrongunquali?ed excluded .
-=
-keyC  admission . 
-synC concession allowance acknowledgement . acceptance .
-antC denial protestation negation contradiction rejection .
-=
-keyC admit .
-synC receive pase permit accept grant concede allow
-acknowledge confess own avow suffer .
-antC exclude debar disallow reject deny discharge dismiss
-eject extrude repudiate disavow disown .
-=
-keyC admittance .
-synC introduction entrance pass permit passport privilege
-acceptance welcome reception .
-antC exclusion denial ejection prohibition bar hindrance
-rejection repudiation .
-=
-keyC admonish .
-synC remind forewarn advise warn dissuade caution counsel
-reprove censure rebuke .
-antC encourage instigate abet incite urge applaud countenance .
-=
-keyC admonition .
-synC warning advice counsel caution reproof .
-antC applauding encouraging inciting urging countenancing .
-=
-keyC ado .
-synC hubbub commotion fuse excitement .
-antC calm composure quiet orderliness staidness tranquillity .
-=
-keyC adopt .
-synC assume select affiliate take elect arrogate choose
-endorse avow appropriate .
-antC reject decline repudiate disavow discard renounce abandon
-disown disclaim .
-=
-keyC adore .
-synC admire hallow glorify praise venerate reverence worship
-idolize .
-antC abhor despise disesteem abominate execrate blaspheme .
-=
-keyC adorn .
-synC beautify bedeck ornament decorate embellish deck garnish
-gild enrich .
-antC mar spoil deform deface disfigure impoverish denude
-despoil strip bare disembellish .
-=
-keyC adrift .
-synC loose afloat agog abroad abroach distracted disordered .
-antC 'fait victorious' tight right lashed moored secure
-collected composed .
-=
-keyC adroit .
-synC handy skillful dexterous expert proficient clever .
-antC awkward clumsy unskillful inexpert lubberly .
-=
-keyC adscititious or ascititious .
-synC adventitious superfluous redundant alien artificial
-spurious smuggled .
-antC essential necessary veritable regular ingenerate ingrained
-congenital fundamental genuine inherent proper .
-=
-keyC adulation .
-synC flattery compliment sycophancy courtship incense praise
-blandishment fawning cringing .
-antC detraction obloquy defamation calumny traducement sarcasm
-ridicule satire bespatterment .
-=
-keyC adult .
-synC man woman .
-antC youth stripling boy child infant .
-=
-keyC adulterate .
-synC debase corrupt deteriorate vitiate contaminate .
-antC make pure genuine undeteriorate .
-=
-keyC adulterated .
-synC impure ingenuine spurious concocted mixed falsified
-deteriorated garbled vitiated .
-antC pure genuine original unmixed unadulterated undeteriorated
-sound .
-=
-keyC adumbration .
-synC shadow foreshadowing presage prognostic delineation
-premonition hint sketch prototype suggestion .
-antC body substance fulfillment realization substantiation
-antitype .
-=
-keyC advance  .
-synC propel elevate promote further lend propagate progress
-increase prosper rise .
-antC retard hinder withhold withdraw recall depress degrade
-suppress oppose retreat decrease .
-=
-keyC advancement  .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v .
+
+
+
+
+
+ .
 =
 keyC advantage .
 synC gain success superiority help assistance benefit good
@@ -1090,7 +1090,7 @@ synC ill-luck misfortune misery calamity disaster distress
 unsuccess failure ruin trouble affliction sorrow .
 antC good-luck prosperity happiness success advancement .
 =
-keyC advert to .
+keyC advert-to .
 synC refer to allude to notice remark glance at regard
 touch upon hint at .
 antC ignore pass drop omit overlook .
@@ -3394,7 +3394,7 @@ antC unrelated unconnected irrelevant impertinent alien
 uncongenial discretional optional uninvolved unimplied
 independent .
 =
-keyC belong to .
+keyC belong-to .
 synC pertain to appertain to regard relate to .
 antC not to belong to not to appertain to not to relate to .
 =
@@ -3986,7 +3986,7 @@ synC limit boundary brink rim verge brim edge edging band
 hem enclosure confine .
 antC land tract interior substance space centre .
 =
-keyC border on .
+keyC border-on .
 synC   
 adjoin adjacent to .
 antC remote from away from .
@@ -15425,7 +15425,7 @@ keyC impose .
 synC lay inflict fix set place enjoin .
 antC remove disburden .
 =
-keyC impose on .
+keyC impose-on .
 synC delude deceive dupe circumvent  .
 =
 keyC imposing .
@@ -18074,8 +18074,8 @@ keyC laudation  .
 =
 keyC laughable  .
 =
-keyC laugh at .
-synC mock at ridicule deride  .
+keyC laugh-at .
+synC mock-at ridicule deride  .
 =
 keyC laughter .
 synC merriment glee derision ridicule cachinnation contempt .
@@ -18651,7 +18651,7 @@ keyC look  .
 synC see behold contemplate observe seem appear face .
 antC overlook miss misobserve misbeseem lurk smoulder .
 =
-keyC look at .
+keyC look-at .
 synC see view eye gaze at behold witness inspect .
 antC  .
 =
@@ -20831,7 +20831,7 @@ synC appearance sight design end aim motive intent view goal .
 antC idea notion conception fancy subject proposal purpose
 effect .
 =
-keyC object to  .
+keyC object-to  .
 synC oppose contravene obstruct defer to except to gainsay
 disapprove .
 antC approve approve of .
@@ -22441,7 +22441,7 @@ keyC pert  .
 synC flippant saucy impudent forward .
 antC modest retiring bashful demure staid .
 =
-keyC pertain to .
+keyC pertain-to .
 synC belong to relate to appertain to regard concern .
 antC be foreign to .
 =
@@ -24987,7 +24987,7 @@ keyC rate  .
 synC compute calculate estimate value scold abuse appraise
  .
 =
-keyC rather than .
+keyC rather-than .
 synC sooner than in preference to .
 =
 keyC ratify .
